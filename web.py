@@ -31,5 +31,3 @@ st.text_input(label="Enter a todo:", placeholder="Add new todo...",
 
 #st.session_state displays values  of all session state variables
 #without needing a key
-st.session_state
-print("Hello")
